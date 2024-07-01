@@ -1,7 +1,7 @@
 {
-  "short_name": "SafeValidator App",
-  "name": "SafeValidator App",
-  "description": "A 7579 validator demo for Safe Accounts",
+  "short_name": "SmartDrop App",
+  "name": "SmartDrop App",
+  "description": "Smart Drop via Smart Accounts",
   "iconPath": "logo192.png",
   "icons": [
     {
